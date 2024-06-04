@@ -1,0 +1,240 @@
+CRITICAL - 2024-06-04 14:08:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagtest.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagtest.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagtest', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagtest')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:08:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagtest.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagtest.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagtest', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagtest')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:08:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagtest.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagtest.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagtest', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagtest')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:09:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagteste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagteste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagteste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagteste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:09:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagteste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagteste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagteste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagteste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:11:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:11:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:11:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:11:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:12:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:12:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:12:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:12:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:12:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:12:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:13:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:13:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:13:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:13:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-04 14:13:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pagina_teste.php"
+[Method: GET, Route: teste]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pagina_teste.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pagina_teste', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('pagina_teste')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->teste()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
